@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lista-clienti>
+  <Client>
+    <Nume>Negoita</Nume>
+    <Prenume>Eduard</Prenume>
+    <Adresa>Pitesti, Calea Dragasani, 2</Adresa>
+    <NrTel>0748018828</NrTel>
+  </Client>
+  <Client>
+    <Nume>Alexandru</Nume>
+    <Prenume>Madalin</Prenume>
+    <Adresa>Bucuresti, Iuliu Maniu, 120</Adresa>
+    <NrTel>0721456723</NrTel>
+  </Client>
+</lista-clienti>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lista-comenzi>
+  <Comanda>
+    <Nume-client>Negoita</Nume-client>
+    <Prenume-client>Eduard</Prenume-client>
+    <Adresa-client>Pitesti, Calea Dragasani, 2</Adresa-client>
+    <NrTel-client>0748018828</NrTel-client>
+    <Pizza-1>Margherita</Pizza-1>
+    <Valoare-comanda>25</Valoare-comanda>
+    <Data-comanda>6/2/2021 1:29:00 PM</Data-comanda>
+  </Comanda>
+  <Comanda>
+    <Nume-client>Alexandru</Nume-client>
+    <Prenume-client>Madalin</Prenume-client>
+    <Adresa-client>Bucuresti, Iuliu Maniu, 120</Adresa-client>
+    <NrTel-client>0723415672</NrTel-client>
+    <Pizza-1>Quattro Formagi</Pizza-1>
+    <Valoare-comanda>50</Valoare-comanda>
+    <Data-comanda>6/18/2021 1:29:43 PM</Data-comanda>
+  </Comanda>
+</lista-comenzi>

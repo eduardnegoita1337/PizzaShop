@@ -1,0 +1,24 @@
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\bin\Debug\ProiectPAW_NegoitaEduard.exe.config
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\bin\Debug\ProiectPAW_NegoitaEduard.exe
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\bin\Debug\ProiectPAW_NegoitaEduard.pdb
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.csprojAssemblyReference.cache
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.Form1.resources
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.Properties.Resources.resources
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.csproj.GenerateResource.cache
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.csproj.CoreCompileInputs.cache
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.exe
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.pdb
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.FormClient.resources
+E:\FAC 2020\PAW\Proiect\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.FormComanda.resources
+D:\proiectpaw\ProiectPAW_NegoitaEduard\bin\Debug\ProiectPAW_NegoitaEduard.exe.config
+D:\proiectpaw\ProiectPAW_NegoitaEduard\bin\Debug\ProiectPAW_NegoitaEduard.exe
+D:\proiectpaw\ProiectPAW_NegoitaEduard\bin\Debug\ProiectPAW_NegoitaEduard.pdb
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.csproj.AssemblyReference.cache
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.Form1.resources
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.FormClient.resources
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.FormComanda.resources
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.Properties.Resources.resources
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.csproj.GenerateResource.cache
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.csproj.CoreCompileInputs.cache
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.exe
+D:\proiectpaw\ProiectPAW_NegoitaEduard\obj\Debug\ProiectPAW_NegoitaEduard.pdb
